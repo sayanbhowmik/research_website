@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Sayan Bhowmik"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Portrait.jpeg"
   bio    : "I’m a chemical engineer turned computational scientist, exploring the atomic-scale world through density functional theory. This is where you’ll find what I do 9–5 — from developing DFT code to unraveling the physico-chemical behavior of materials, and everything in between."
   links:
     - label: "Website"
