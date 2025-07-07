@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Sayan Bhowmik
+title: "Sayan Bhowmik"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-I’m a chemical engineer turned computational scientist, exploring the atomic-scale world through density functional theory. This is where you’ll find what I do 9–5 — from developing DFT code to unraveling the physical/chemical behavior of materials, and everything in between.
+"I’m a chemical engineer turned computational scientist, exploring the atomic-scale world through density functional theory. This is where you’ll find what I do 9–5 — from developing DFT code to unraveling the physical/chemical behavior of materials, and everything in between."
 twitter_username: username
-github_username: sayanbhowmik
-minimal_mistakes_skin: dark
+github_username: "sayanbhowmik"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
